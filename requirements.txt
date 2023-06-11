@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+scikit-learn
+plotly.express
+plotly.graph_objects
+streamlit
+streamlit_shap
+shap
+PIL
+Image
+itertools
+scipy.stats
+joblib
